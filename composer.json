@@ -1,0 +1,17 @@
+{
+    "name": "avrio/jscfoc4fix-plugin",
+    "type": "october-plugin",
+    "description": "October CMS 4 compatibility fix for janvince.smallcontactform plugin",
+    "keywords": ["october", "octobercms", "plugin", "compatibility", "smallcontactform"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Avrio Interactive Sp. z o.o.",
+            "homepage": "https://avrio.pl"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0",
+        "october/rain": ">=3.0"
+    }
+}

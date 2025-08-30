@@ -1,0 +1,8 @@
+1.0.1:
+    - 'Initialize October CMS 4 compatibility fix for janvince/smallcontactform'
+    - 'Fix fatal error: Target class [core.composer] does not exist'
+    - 'Fix ReCaptcha loading issues in October CMS 4'
+    - 'Restructure vendor folder to prevent composer/installers conflicts'
+    - 'Create safe autoloader for ReCaptcha library'
+    - 'Add intelligent ReCaptcha loading and performance optimizations'
+    - create_initialize_plugin.php

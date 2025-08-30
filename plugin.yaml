@@ -1,0 +1,6 @@
+plugin:
+    name: 'Small Contact Form OC4 Fix'
+    description: 'October CMS 4 compatibility fix for janvince.smallcontactform plugin'
+    author: 'Avrio Interactive Sp. z o.o.'
+    icon: oc-icon-wrench
+    homepage: 'https://avrio.pl'
